@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: 0;
+}
+
+.main{
+    background-color: black;
+
+}
+
+.head{
+    text-align: left;
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+.parent{
+    border: 1px solid black;
+    padding: 40px;
+    width: 30%;
+    height: 100%;
+    margin-left: 35%;
+    align-content: centers;
+    background-color: white;
+}
+
+.text{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    font-size: large;
+    padding: 30px;
+}
+
+.txt{
+    font-weight: bold;
+}
+
+.animalFeatures{
+    list-style-type: none;
+}
+
+.image{
+   width: 460px;
+   height: 300px;
+   margin-bottom: 15px;
+}
+
+.para1{
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.list{
+    margin-bottom: 15px;
+}
+
