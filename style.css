@@ -5,23 +5,35 @@
     border: 0;
 }
 
+.main{
+    background-color: black;
+
+}
+
 .head{
-    text-align: center;
-    margin-bottom: 25px;
+    text-align: left;
+    margin-bottom: 15px;
+    font-size: 25px;
 }
 
 .parent{
     border: 1px solid black;
-    padding: 15px;
+    padding: 40px;
     width: 30%;
-    height: 200%;
+    height: 100%;
     margin-left: 35%;
     align-content: centers;
+    background-color: white;
 }
 
 .text{
-    border: 1px solid black;
-    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    font-size: large;
+    padding: 30px;
+}
+
+.txt{
+    font-weight: bold;
 }
 
 .animalFeatures{
@@ -29,9 +41,8 @@
 }
 
 .image{
-   display: inline;
-   width: 400px;
-   height: 225px;
+   width: 460px;
+   height: 300px;
    margin-bottom: 15px;
 }
 
